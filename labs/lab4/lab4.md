@@ -1,7 +1,7 @@
 ---
 name: Axel Tovar
 course: cis106
-semester: spring 23
+semester: Fall 23
 ---
 
 # Lab 4 The linux FS

@@ -1,6 +1,6 @@
 ---
 name: Axel Tovar
-semester: Spring 23
+semester: Fall 23
 course: cis106
 ---
 

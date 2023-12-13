@@ -10,3 +10,7 @@ semester: Fall 23
 ## Question 2
 ![Question 2](q2.png)
 
+
+![Question 2](GNU+Linux.md)
+![Question 2](linux.md)
+![Question 2](linux+other.md)
